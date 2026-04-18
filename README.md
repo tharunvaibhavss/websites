@@ -83,6 +83,7 @@ This repository showcases 6 business websites developed using WordPress, focusin
 ## 🛠 Tools & Technologies
 
 * WordPress
+* WIX
 * Elementor / Page Builders
 * SEO Optimization Techniques
 * UI/UX Design Principles
